@@ -1,0 +1,13 @@
+http://adina.github.io/2014-01-08-iastate/room-schedules/R-room-schedule.html
+
+Git cheatsheet:  http://ndpsoftware.com/git-cheatsheet.html
+git init is to initiate a new repository
+commit - a snapshot of the directory; comes with metadata - date, who, what, changes made, etc.
+    working dir you see; stage - files to go in next commit; local repo files that have been committed
+unique identifier for each snapshot
+SHA-1 hash = unique 40 digit computer generated id for each commit
+Head - reference to the current branch or commit
+
+git log - view the change history(commits)
+git diff - view changes btwn files & commits
+
