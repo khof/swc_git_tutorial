@@ -11,3 +11,6 @@ Head - reference to the current branch or commit
 git log - view the change history(commits)
 git diff - view changes btwn files & commits
 
+git add
+git commit  git commit -m "added README AND TODO"
+
