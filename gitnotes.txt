@@ -14,3 +14,4 @@ git diff - view changes btwn files & commits
 git add
 git commit  git commit -m "added README AND TODO"
 
+git diff HEAD   tells how file changed
